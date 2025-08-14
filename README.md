@@ -7,7 +7,7 @@ O objetivo é praticar **HTML5** e **CSS3** enquanto se desenvolve uma página e
 
 ## 📸 Prévia do Projeto
 
-![Prévia do Projeto](./assets/images/Logotipo.png) 
+![Prévia do Projeto](./assets/imagens/Logotipo.png) 
 
 ---
 
